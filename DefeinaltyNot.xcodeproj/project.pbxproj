@@ -17,6 +17,22 @@
 		01DBD4F9257E211700D697B6 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01DBD4E0257E211600D697B6 /* Persistence.swift */; };
 		01DBD4FA257E211700D697B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD4E1257E211700D697B6 /* Assets.xcassets */; };
 		01DBD4FB257E211700D697B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD4E1257E211700D697B6 /* Assets.xcassets */; };
+		01DBD50A257E215700D697B6 /* Screen Shot 2020-12-07 at 12.34.29 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD507257E215700D697B6 /* Screen Shot 2020-12-07 at 12.34.29 AM.png */; };
+		01DBD50B257E215700D697B6 /* Screen Shot 2020-12-07 at 12.34.29 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD507257E215700D697B6 /* Screen Shot 2020-12-07 at 12.34.29 AM.png */; };
+		01DBD50C257E215700D697B6 /* Screen Shot 2020-12-07 at 12.33.52 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD508257E215700D697B6 /* Screen Shot 2020-12-07 at 12.33.52 AM.png */; };
+		01DBD50D257E215700D697B6 /* Screen Shot 2020-12-07 at 12.33.52 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD508257E215700D697B6 /* Screen Shot 2020-12-07 at 12.33.52 AM.png */; };
+		01DBD50E257E215700D697B6 /* Screen Shot 2020-12-07 at 12.35.01 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD509257E215700D697B6 /* Screen Shot 2020-12-07 at 12.35.01 AM.png */; };
+		01DBD50F257E215700D697B6 /* Screen Shot 2020-12-07 at 12.35.01 AM.png in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD509257E215700D697B6 /* Screen Shot 2020-12-07 at 12.35.01 AM.png */; };
+		01DBD518257E216B00D697B6 /* Mask3.mlproj in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD513257E216B00D697B6 /* Mask3.mlproj */; };
+		01DBD519257E216B00D697B6 /* Mask3.mlproj in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD513257E216B00D697B6 /* Mask3.mlproj */; };
+		01DBD51A257E216B00D697B6 /* Mask3 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 01DBD514257E216B00D697B6 /* Mask3 1.mlmodel */; };
+		01DBD51B257E216B00D697B6 /* Mask3 1.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 01DBD514257E216B00D697B6 /* Mask3 1.mlmodel */; };
+		01DBD51C257E216B00D697B6 /* Mask2.mlproj in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD515257E216B00D697B6 /* Mask2.mlproj */; };
+		01DBD51D257E216B00D697B6 /* Mask2.mlproj in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD515257E216B00D697B6 /* Mask2.mlproj */; };
+		01DBD51E257E216B00D697B6 /* MaskDetector 1Exmergency.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 01DBD516257E216B00D697B6 /* MaskDetector 1Exmergency.mlmodel */; };
+		01DBD51F257E216B00D697B6 /* MaskDetector 1Exmergency.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 01DBD516257E216B00D697B6 /* MaskDetector 1Exmergency.mlmodel */; };
+		01DBD520257E216B00D697B6 /* MaskDetector.mlproj in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD517257E216B00D697B6 /* MaskDetector.mlproj */; };
+		01DBD521257E216B00D697B6 /* MaskDetector.mlproj in Resources */ = {isa = PBXBuildFile; fileRef = 01DBD517257E216B00D697B6 /* MaskDetector.mlproj */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +46,14 @@
 		01DBD4EE257E211700D697B6 /* DefeinaltyNot.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DefeinaltyNot.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01DBD4F0257E211700D697B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01DBD4F1257E211700D697B6 /* macOS.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = macOS.entitlements; sourceTree = "<group>"; };
+		01DBD507257E215700D697B6 /* Screen Shot 2020-12-07 at 12.34.29 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2020-12-07 at 12.34.29 AM.png"; sourceTree = "<group>"; };
+		01DBD508257E215700D697B6 /* Screen Shot 2020-12-07 at 12.33.52 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2020-12-07 at 12.33.52 AM.png"; sourceTree = "<group>"; };
+		01DBD509257E215700D697B6 /* Screen Shot 2020-12-07 at 12.35.01 AM.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2020-12-07 at 12.35.01 AM.png"; sourceTree = "<group>"; };
+		01DBD513257E216B00D697B6 /* Mask3.mlproj */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Mask3.mlproj; sourceTree = "<group>"; };
+		01DBD514257E216B00D697B6 /* Mask3 1.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "Mask3 1.mlmodel"; sourceTree = "<group>"; };
+		01DBD515257E216B00D697B6 /* Mask2.mlproj */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = Mask2.mlproj; sourceTree = "<group>"; };
+		01DBD516257E216B00D697B6 /* MaskDetector 1Exmergency.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = "MaskDetector 1Exmergency.mlmodel"; sourceTree = "<group>"; };
+		01DBD517257E216B00D697B6 /* MaskDetector.mlproj */ = {isa = PBXFileReference; lastKnownFileType = wrapper; path = MaskDetector.mlproj; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +91,8 @@
 				01DBD4DF257E211600D697B6 /* ContentView.swift */,
 				01DBD4E0257E211600D697B6 /* Persistence.swift */,
 				01DBD4E1257E211700D697B6 /* Assets.xcassets */,
+				01DBD512257E216B00D697B6 /* ML models */,
+				01DBD506257E215700D697B6 /* Images */,
 				01DBD4DC257E211600D697B6 /* DefeinaltyNot.xcdatamodeld */,
 			);
 			path = Shared;
@@ -96,6 +122,28 @@
 				01DBD4F1257E211700D697B6 /* macOS.entitlements */,
 			);
 			path = macOS;
+			sourceTree = "<group>";
+		};
+		01DBD506257E215700D697B6 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				01DBD507257E215700D697B6 /* Screen Shot 2020-12-07 at 12.34.29 AM.png */,
+				01DBD508257E215700D697B6 /* Screen Shot 2020-12-07 at 12.33.52 AM.png */,
+				01DBD509257E215700D697B6 /* Screen Shot 2020-12-07 at 12.35.01 AM.png */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		01DBD512257E216B00D697B6 /* ML models */ = {
+			isa = PBXGroup;
+			children = (
+				01DBD513257E216B00D697B6 /* Mask3.mlproj */,
+				01DBD514257E216B00D697B6 /* Mask3 1.mlmodel */,
+				01DBD515257E216B00D697B6 /* Mask2.mlproj */,
+				01DBD516257E216B00D697B6 /* MaskDetector 1Exmergency.mlmodel */,
+				01DBD517257E216B00D697B6 /* MaskDetector.mlproj */,
+			);
+			path = "ML models";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -176,6 +224,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01DBD50A257E215700D697B6 /* Screen Shot 2020-12-07 at 12.34.29 AM.png in Resources */,
+				01DBD50E257E215700D697B6 /* Screen Shot 2020-12-07 at 12.35.01 AM.png in Resources */,
+				01DBD50C257E215700D697B6 /* Screen Shot 2020-12-07 at 12.33.52 AM.png in Resources */,
+				01DBD520257E216B00D697B6 /* MaskDetector.mlproj in Resources */,
+				01DBD518257E216B00D697B6 /* Mask3.mlproj in Resources */,
+				01DBD51C257E216B00D697B6 /* Mask2.mlproj in Resources */,
 				01DBD4FA257E211700D697B6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -184,6 +238,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				01DBD50B257E215700D697B6 /* Screen Shot 2020-12-07 at 12.34.29 AM.png in Resources */,
+				01DBD50F257E215700D697B6 /* Screen Shot 2020-12-07 at 12.35.01 AM.png in Resources */,
+				01DBD50D257E215700D697B6 /* Screen Shot 2020-12-07 at 12.33.52 AM.png in Resources */,
+				01DBD521257E216B00D697B6 /* MaskDetector.mlproj in Resources */,
+				01DBD519257E216B00D697B6 /* Mask3.mlproj in Resources */,
+				01DBD51D257E216B00D697B6 /* Mask2.mlproj in Resources */,
 				01DBD4FB257E211700D697B6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -198,6 +258,8 @@
 				01DBD4F4257E211700D697B6 /* DefeinaltyNotApp.swift in Sources */,
 				01DBD4F8257E211700D697B6 /* Persistence.swift in Sources */,
 				01DBD4F2257E211700D697B6 /* DefeinaltyNot.xcdatamodeld in Sources */,
+				01DBD51A257E216B00D697B6 /* Mask3 1.mlmodel in Sources */,
+				01DBD51E257E216B00D697B6 /* MaskDetector 1Exmergency.mlmodel in Sources */,
 				01DBD4F6257E211700D697B6 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -209,6 +271,8 @@
 				01DBD4F5257E211700D697B6 /* DefeinaltyNotApp.swift in Sources */,
 				01DBD4F9257E211700D697B6 /* Persistence.swift in Sources */,
 				01DBD4F3257E211700D697B6 /* DefeinaltyNot.xcdatamodeld in Sources */,
+				01DBD51B257E216B00D697B6 /* Mask3 1.mlmodel in Sources */,
+				01DBD51F257E216B00D697B6 /* MaskDetector 1Exmergency.mlmodel in Sources */,
 				01DBD4F7257E211700D697B6 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
